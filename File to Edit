@@ -4,8 +4,9 @@
 # sudo vim /boot/config.txt
 # Now scroll all the way to the bottom of the file and add in:
 # display_rotate-X (where as X is one of the numbers below.) 
+# Escape then :wq (thi will save the file if you are using VIM)
 
-# Now do a reboot after making the change to the /boot/config.txt file, and you should have a screen tilted by the number of your desire:
+# Now do a (sudo reboot) to reboot after making the change to the /boot/config.txt file, and you should have a screen tilted by the number of your desire:
 
 # 0 = 0 degrees (the default value)
 # 1 = 90 degrees
