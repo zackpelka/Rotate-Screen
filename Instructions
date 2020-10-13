@@ -6,17 +6,18 @@
 
 # display_rotate=X 
 
-(where as X is one of the numbers below.) 
-# Escape then :wq (thi will save the file if you are using VIM)
-
-# Now do a (sudo reboot) to reboot after making the change to the /boot/config.txt file, and you should have a screen tilted by the number of your desire:
+# (where as X is one of the numbers below.)
 
 # 0 = 0 degrees (the default value)
 # 1 = 90 degrees
 # 2 = 180 degrees
 # 3 = 270 degrees
 
-#That’s it! Quick and easy.
+# Escape then :wq (thi will save the file if you are using VIM)
+
+# Now do a (sudo reboot) to reboot after making the change to the /boot/config.txt file, and you should have a screen tilted by the number of your desire:
+
+# That’s it! Quick and easy.
 
 # What do you use your Raspberry Pi for? I just recently got mine and started playing around, mainly using it as a dashboard for my firewall now. Also will test some licensing services on it in the future and what else.
 # Let me know what you use your’s for in the comments!
