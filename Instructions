@@ -1,6 +1,4 @@
-# Lines of code:
-
-# Your favorite editor:
+# Using your favorite editor, VIM is preferred:
 # sudo vim /boot/config.txt
 # Now scroll all the way to the bottom of the file and add in:
 
