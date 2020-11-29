@@ -1,5 +1,5 @@
 # Using your favorite editor, VIM is preferred / suggested:
-# sudo vim /boot/config.txt
+# sudo vim (or your prefered editor) /boot/config.txt
 # Now scroll all the way to the bottom of the file and add in:
 
 # display_rotate=X 
