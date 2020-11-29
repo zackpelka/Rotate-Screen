@@ -11,9 +11,9 @@
 # 2 = 180 degrees
 # 3 = 270 degrees
 
-# Escape then :wq (thi will save the file if you are using VIM)
+# Escape then :wq (this will save the file if you are using VIM)
 
-# Now do a (sudo reboot) to reboot after making the change to the /boot/config.txt file, and you should have a screen tilted by the number of your desire:
+# Reboot (sudo reboot) making the change to the /boot/config.txt file, and you should have a screen rotated by the number of your desire:
 
 # That’s it! Quick and easy.
 
