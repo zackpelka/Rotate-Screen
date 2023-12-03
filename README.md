@@ -1,7 +1,5 @@
-# Rotate-Screen
-# Rotate The Screen On  A Linux Machine
+# Rotate-Screen For Raspberry Pi / Linux
 # "Digital Picture Frames" would not display in Landscape view with a Raspberry PI build called "DynaFrame"
-# Use case was for a Raspberry PI
 
 To rotate the screen 90 degrees right:
 --------------------------------------
